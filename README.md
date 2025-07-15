@@ -22,14 +22,6 @@ This project presents a rain detection and classification system implemented usi
 - PWM-controlled LED
 - 24C512 EEPROM
 
-## Folder Structure
-
-```
-.
-├── Rain_Detector_Documentation.docx   # Full technical documentation
-├── README.md                          # GitHub readme file
-└── asm_code/                          # AVR Assembly source files
-```
 
 ## How It Works
 
