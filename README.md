@@ -1,7 +1,7 @@
 
 # Rain Detection and Classification System
 
-This project presents a rain detection and classification system implemented using the ATmega328P microcontroller. It utilizes an HW-83 analog rain sensor, an LCD for real-time display, a PWM-controlled LED for visual intensity feedback, and an external EEPROM for data persistence.
+This project presents a rain detection and classification system implemented using the ATmega328P microcontroller. It utilizes an HW-83 analog rain sensor, an LCD for real-time display, a PWM-controlled LED for visual intensity feedback, and an external EEPROM for data persistence all controlled using AVR assembly language.
 
 ## Features
 
@@ -12,6 +12,7 @@ This project presents a rain detection and classification system implemented usi
 - Data logging using 24LC512 EEPROM
 - Entire system programmed in AVR Assembly language
 - Simulated in Proteus
+- Code in Assembly using Atmel Studio 7.0
 
 ## Components Used
 
@@ -20,7 +21,6 @@ This project presents a rain detection and classification system implemented usi
 - LM016L 16x2 LCD
 - PWM-controlled LED
 - 24C512 EEPROM
-- Proteus simulation software
 
 ## Folder Structure
 
